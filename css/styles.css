@@ -22,7 +22,11 @@ img {
   background-color: hwb(60 50% 0%);
 }
 
-.column1 {
+ol {
+  padding-left: 15px; 
+}
+
+.column {
   width: 50%;
   float: center;
   margin: auto;
@@ -42,7 +46,7 @@ img {
   box-sizing: border-box;
 }
 
-.column3 {
+/* .column3 {
   width: 50%;
   float: center;
   margin: auto;
@@ -50,7 +54,7 @@ img {
   padding: 5px; 
   display: block; 
   box-sizing: border-box;
-}
+} */
 
 .sidebar {
   width: 25%;
