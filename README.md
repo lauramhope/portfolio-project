@@ -1,6 +1,6 @@
-# _{Application Name}_
+# _Portfolio Project_
 
-#### By _**{List of contributors}**_
+#### By _**Laura Hope**_
 
 #### _{Brief description of application}_
 
@@ -32,6 +32,9 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 ## License
 
+[MIT](https://opensource.org/license/mit/)
+
 _{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
 
+[GitHub-Pages]()
 Copyright (c) _date_ _author name(s)_a 
