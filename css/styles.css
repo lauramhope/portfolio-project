@@ -15,8 +15,20 @@ h1 {
   font-family: cursive;
 }
 
-img {
+#my-photo {
   border-radius: 50%;
+}
+
+#html-photo {
+  float: left;
+  border-radius: 25%; 
+  width: 15%; 
+}
+
+#vscode-photo {
+  float: right; 
+  border-radius: 25%;
+  width: 15%; 
 }
 
 h3 {
@@ -40,7 +52,7 @@ ol {
   float: center;
   margin: auto;
   border: double blue;
-  padding: 5px;
+  padding: 10px;
   display: block; 
   box-sizing: border-box;
 }
@@ -52,7 +64,7 @@ ol {
   margin-top: 5px; 
   margin-bottom: 5px; 
   border: dotted green;
-  padding: 5px;
+  padding: 10px;
   display: block;
   box-sizing: border-box;
 }
@@ -63,7 +75,7 @@ ol {
   float: center;
   margin: auto;
   border: double orange;
-  padding: 5px; 
+  padding: 10px; 
   display: block; 
   box-sizing: border-box;
 }
