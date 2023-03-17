@@ -1,5 +1,21 @@
+#heading-info {
+  width: 70%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+h1 {
+  font-family: cursive;
+}
+
 img {
-  
+  border-radius: 50%;
+}
+
+#age-location {
+  padding-top: 0%; 
 }
 
 .highlight {
@@ -7,20 +23,22 @@ img {
 }
 
 .column1 {
-  width: 30%;
+  width: 50%;
   float: center;
   margin: auto;
   border: solid blue;
   padding: 5px;
+  display: block; 
   box-sizing: border-box;
 }
 
 .column2 {
-  width: 30%;
+  width: 25%;
   float: left;
   margin: auto;
   border: solid green;
   padding: 5px;
+  display: block;
   box-sizing: border-box;
 }
 
@@ -30,11 +48,12 @@ img {
   margin: auto;
   border: solid orange;
   padding: 5px; 
+  display: block; 
   box-sizing: border-box;
 }
 
 .sidebar {
-  width: 30%;
+  width: 25%;
   float: right;
   background-color: pink;
   margin: auto;
