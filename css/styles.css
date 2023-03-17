@@ -1,3 +1,7 @@
+img {
+  
+}
+
 .highlight {
   background-color: hwb(60 50% 0%);
 }
@@ -8,6 +12,7 @@
   margin: auto;
   border: solid blue;
   padding: 5px;
+  box-sizing: border-box;
 }
 
 .column2 {
@@ -16,6 +21,7 @@
   margin: auto;
   border: solid green;
   padding: 5px;
+  box-sizing: border-box;
 }
 
 .column3 {
@@ -24,6 +30,7 @@
   margin: auto;
   border: solid orange;
   padding: 5px; 
+  box-sizing: border-box;
 }
 
 .sidebar {
@@ -33,4 +40,5 @@
   margin: auto;
   border: dashed black;
   padding: 5px; 
+  box-sizing: border-box;
 }
