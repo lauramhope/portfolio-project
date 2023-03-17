@@ -26,7 +26,7 @@ _This HTML application displays my personal portfolio with special CSS formattin
 
 ## Known Bugs
 
-* _No known bugs as of 3/17/23_
+* _CSS animations not showing up on GitHub pages link_
 
 ## License
 
