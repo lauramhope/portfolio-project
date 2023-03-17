@@ -1,3 +1,36 @@
 .highlight {
   background-color: hwb(60 50% 0%);
 }
+
+.column1 {
+  width: 30%;
+  float: center;
+  margin: auto;
+  border: solid blue;
+  padding: 5px;
+}
+
+.column2 {
+  width: 30%;
+  float: left;
+  margin: auto;
+  border: solid green;
+  padding: 5px;
+}
+
+.column3 {
+  width: 50%;
+  float: center;
+  margin: auto;
+  border: solid orange;
+  padding: 5px; 
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: pink;
+  margin: auto;
+  border: dashed black;
+  padding: 5px; 
+}
