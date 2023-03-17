@@ -41,7 +41,7 @@ ol {
   box-sizing: border-box;
 }
 
-#education {
+#education-skills {
   width: 65%;
   float: center;
   margin: auto;
@@ -61,29 +61,6 @@ ol {
   border: double rgb(215, 21, 186);
   padding: 8px;
   box-sizing: border-box;
-}
-
-#skill-list {
-  width: 450px;
-  height: auto; 
-  float: center;
-  margin: auto;
-  margin-bottom: 5px; 
-  border: dotted black;
-  padding: 8px; 
-  box-sizing: border-box;
-}
-
-#html-photo {
-  float: left;
-  border-radius: 25%; 
-  width: 12%;
-}
-
-#vscode-photo {
-  float: right; 
-  border-radius: 25%;
-  width: 12%; 
 }
 
 #github-projects {
