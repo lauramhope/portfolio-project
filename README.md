@@ -22,7 +22,7 @@ _This HTML application displays my personal portfolio with special CSS formattin
 * _Navigate to the directory titled "portfolio-project"_
 * _Open the file "index.html" in your browser_
 
-[GitHub-Pages]()
+[GitHub-Pages](https://lauramhope.github.io/portfolio-project/)
 
 ## Known Bugs
 
