@@ -1,6 +1,9 @@
 body {
   background-color:hsl(240, 58%, 86%);
   font-family: Georgia, 'Times New Roman', Times, serif; 
+  border: double rgb(26, 0, 128); 
+  margin: auto; 
+  border-width: 5px; 
 }
 
 #heading-info {
@@ -11,7 +14,7 @@ body {
 }
 
 h1 {
-  font-family: cursive;
+  font-family: cursive; 
 }
 
 #my-photo {
