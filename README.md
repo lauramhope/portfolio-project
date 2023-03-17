@@ -22,6 +22,8 @@ _This HTML application displays my personal portfolio with special CSS formattin
 * _Navigate to the directory titled "portfolio-project"_
 * _Open the file "index.html" in your browser_
 
+[GitHub-Pages]()
+
 ## Known Bugs
 
 * _No known bugs as of 3/17/23_
@@ -31,7 +33,5 @@ _This HTML application displays my personal portfolio with special CSS formattin
 [MIT](https://opensource.org/license/mit/)
 
 _If you run into any issues or have questions, ideas or concerns, please reach out via email: lauramhope.dpt@gmail.com.  Contributions to the code are highly encouraged._
-
-[GitHub-Pages]()
 
 Copyright (c) _3/17/2023_ _Laura Hope_

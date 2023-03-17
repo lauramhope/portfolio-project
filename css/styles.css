@@ -3,7 +3,7 @@ body {
   font-family: Georgia, 'Times New Roman', Times, serif; 
   border: double rgb(26, 0, 128); 
   margin: auto; 
-  border-width: 5px; 
+  border-width: 8px; 
 }
 
 #heading-info {
@@ -24,11 +24,11 @@ h1 {
 
 h3 {
   text-align: center; 
-  background-color: azure;
+  background-color: rgb(235, 245, 245);
 }
 
 .highlight {
-  background-color: hwb(71 79% 6%);
+  background-color: hwb(71 63% 5%);
 }
 
 ol {
